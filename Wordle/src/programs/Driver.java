@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Driver {
 
 	public static void main(String[] args) {
-		Game game = new Game("boots");
+		Game game = new Game("boobs");
 		Scanner scanner = new Scanner(System.in);
 		boolean done = false;
 		String guess, scored;
