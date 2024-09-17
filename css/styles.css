@@ -4441,3 +4441,14 @@ td:last-child {
         right: -2rem;
     }
 }
+/* Full-width style for NASA entry */
+.entry.full-width {
+    width: 100%; /* Takes up the full row */
+    margin: 0; /* Remove any margins */
+    padding: 0; /* Optional: Adjust padding as needed */
+}
+
+.entry__thumb img {
+    width: 100%; /* Ensures image spans the full width of the container */
+    height: auto; /* Keeps image proportional */
+}
