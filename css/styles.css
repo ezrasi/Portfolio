@@ -94,7 +94,7 @@
    * color-2(#2F352B)
    * color-3(#1A1A1A)
    */
-    --color-1: hsla(12, 75%, 45%, 1);
+    --color-1: rgb(17, 137, 235);
     --color-2: hsla(96, 10%, 19%, 1);
     --color-3: hsla(0, 0%, 10%, 1);
 
@@ -2863,7 +2863,7 @@ td:last-child {
     font-weight: 300;
     font-size  : 1.4rem;
     line-height: 1.571;
-    color      : rgba(255, 255, 255, 0.5) !important;
+    color      : rgba(255, 255, 255, 0.857) !important;
 }
 
 .glightbox-container .gprev,
